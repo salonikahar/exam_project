@@ -121,16 +121,11 @@ body {
     
     margin: 0 auto;
     max-width:1320px;
-    /* border: 2px solid red   ; */
 }
 
 
 /* section start */
 
-.box {
-    /* height: 100vh; */
-    /* background-color: #ffffff; */
-}
 
 .dsc {
     height: 20%;
@@ -151,18 +146,15 @@ body {
     color: gray;
     font-size: 24px;
     text-align: center;
-    /* margin-bottom: 50px; */
 }
 
 .cardmain {
-    /* height: 70%; */
     justify-content: center;
     align-items: center;
 }
 
 .cardmain .card {
     background-color: var(--white);
-    /* height: 100%; */
     position: relative;
     box-shadow: 1px 1px 24px 0px rgba(213,213,217,0.47);
     margin-top: 20px;
@@ -237,7 +229,6 @@ body {
 }
 .foot ul li{
     list-style: none;
-    /* font-size: 20px; */
     color: white;
     line-height: 50px;
 }
