@@ -270,6 +270,7 @@ body {
 .bold{
     font-weight: bolder;
     font-size: 25px;
+    color: #F59A57;
 }
 
 .media img:hover{
